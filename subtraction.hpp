@@ -30,7 +30,6 @@
 #ifndef __LRG_SUBTRACTION__
 #define __LRG_SUBTRACTION__
 
-#include <iostream>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
