@@ -39,7 +39,7 @@
 using namespace std;
 
 //function for large number multiplication
-vector <int> multiply(ivec a,ivec b) 
+vector <int> multiply(vector <int> a, vector <int> b) 
 {
     vector <int> product, temp1, temp2;
     vector <int> large = a;
