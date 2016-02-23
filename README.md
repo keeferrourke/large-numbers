@@ -1,4 +1,8 @@
 # large-numbers
+
+#####Update 2016-02-23
+This project is officially abandoned. I have no plans to ever update this thing again. All relevant cpp and hpp files have been uploaded here, so they may serve as reference for other developer's work; in particular young programmers.
+
 ##What is this?
 This is a project that I started in my grade 11 computer science class in which I created some functions to deal with large number operations.
 Feel free to use any of the code in this project as part of your projects, respecting the terms of the GNU Lesser General Public License v3.
